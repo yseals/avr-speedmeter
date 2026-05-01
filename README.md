@@ -1,6 +1,8 @@
 # avr-speedmeter
 プログラマー5年目(2009年頃)のときの製作物です
 
+<img src="hardware/picture/housing2.jpg" width="300">
+
 ## 概要
 ATTiny2313を使ったデジタルスピードメーターで<br>
 ヘッドアップディスプレイ(HUD)として使用も可能です。<br>
@@ -16,6 +18,10 @@ ATTiny2313を使ったデジタルスピードメーターで<br>
 乗っていた車にHUDつけたいなと思ったのがきっかけで作りました。<br>
 回路基板製作もやってみたかったので、Eagle（CAD）使って、<br>
 回路図作り、最終的にはガーバーデータまで作成し、基板屋さんへ基板製作依頼しました。
+
+<img src="hardware/picture/rawboard.jpg" width="300">
+<img src="hardware/picture/assembledboard.jpg" width="300">
+<img src="hardware/picture/housing.jpg" width="300">
 
 ## 使用方法
 1. AVRマイコンにヒューズ設定.txtの内容を書き込んでください
